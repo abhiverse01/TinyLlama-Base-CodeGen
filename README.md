@@ -1,4 +1,5 @@
-# Tiny-Llama-Base-Fine-tuning-for-code-gen
+# TinyLlama-Base-CodeGen
+**Tiny-Llama-Base-Fine-tuning-for-code-gen**
 
 ## Overview
 
